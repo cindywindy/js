@@ -1,5 +1,9 @@
+let welcome = 'Welcome!';
 
-
-showMessage("changes");
+showMessage(welcome);
 
 console.log("i\'m in!")
+
+let price = 40.99,
+    name = 'boots',
+    discounted = false;
